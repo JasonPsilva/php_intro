@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(67, 68, 68);
+    color: aliceblue;
+
+}
+body h2{
+    margin-left: 280px;
+}
+form{
+    height: 300px;
+    width: 400px;
+    border: 5px double black;
+    background-color: rgb(27, 31, 31);
+    font-weight: bolderS;
+text-align: center;
+     margin-left: 400px;
+     opacity: 90%;
+}
